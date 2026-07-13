@@ -55,7 +55,7 @@ Finance-Analysis-PowerBI/
 ├── Finance_Analysis.pbix
 ├── README.md
 ├── LICENSE
-├── Images
+├── logos
 │
 ├── datasets/
 │   ├── customers.csv
