@@ -72,7 +72,7 @@ The dataset used in this project is publicly available.
 
 **Dataset Link:**
 
-https://drive.google.com/drive/u/0/mobile/folders/1YviyK5J_0LS9yBb2lNh2Fyap1xlyec7W?usp=sharing
+https://drive.google.com/drive/u/0/mobile/folders/15wlZbKgQGb1qiCS4e1PPmpjsc9UGprex?usp=sharing
 
 Due to its large size, the dataset is not included in this repository.
 
